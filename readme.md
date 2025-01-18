@@ -1,13 +1,13 @@
 
-# Jogo do amigo secreto
+#👾Jogo do amigo secreto👾
 
-## Criado por: Glaudencio da Costa Meneses
+## Criado por: Glaudencio da Costa Meneses 🙋
 
 <p float="left">
  <img src="assets/projeto.png" width="900"/>
 </p>
 
-# Acesse a demonstração do projeto funcionando [aqui](https://glaudencio12.github.io/challenge-amigo-secreto/)
+**Acesse o projeto funcionando 👉[aqui](https://glaudencio12.github.io/challenge-amigo-secreto/)👈**
 
 # Descrição do jogo
 
