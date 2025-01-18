@@ -1,4 +1,4 @@
-👾# Jogo do amigo secreto👾
+# Jogo do amigo secreto👾
 
 ## Criado por: Glaudencio da Costa Meneses 🙋
 
