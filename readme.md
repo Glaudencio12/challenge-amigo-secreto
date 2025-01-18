@@ -7,6 +7,8 @@
  <img src="assets/projeto.png" width="900"/>
 </p>
 
+# Acesse a demonstração do projeto funcionando [aqui](https://glaudencio12.github.io/challenge-amigo-secreto/)
+
 # Descrição do jogo
 
 O objetivo do jogo é sortear um amigo secreto de acordo com uma lista de amigos inseridos pelo usuário. O nome da pessoa que será o amigo secreto é escolhido aleatoriamente e exibido na tela.
