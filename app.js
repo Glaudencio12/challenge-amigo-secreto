@@ -2,7 +2,7 @@ let amigos = [];
 
 function adicionarAmigo() {
       let nomeAmigo = document.querySelector('input');
-      if (nomeAmigo.value == "") {
+      if (nomeAmigo.value.trim() == "" ) {
             alert('Por favor, insira um nome.');
       } else {
             amigos.push(nomeAmigo.value);
